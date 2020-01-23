@@ -1,6 +1,58 @@
 # Online Shopping
 
-> Online Shopping app built with the MERN stack along with Redux for state management.
+> Online Shopping app built with the MERN stack.
+
+
+
+### Screenshot
+
+### Home page
+![]( ./Output/1.png)
+
+
+### Register page
+![]( ./Output/2.png)
+
+### Register page with validation
+![]( ./Output/3.png)
+
+### If the user is exist it'll display the message
+![]( ./Output/4.png)
+
+### Login page
+![]( ./Output/5.png)
+
+### Login page with validation
+![]( ./Output/6.png)
+
+### Dashboard
+![]( ./Output/7.png)
+
+### cart
+![]( ./Output/8.png)
+
+### Favorites
+![]( ./Output/9.png)
+
+### once you logout it'll show you the dashboard
+![]( ./Output/10.png)
+
+## Steps to Setup
+1. Install dependencies
+
+```bash
+npm install
+```
+
+2. Run Server
+
+```bash
+node server.js
+```
+You can browse the apis at <http://localhost:3000>
+
+
+
 
 ## Quick Start
 
